@@ -2,6 +2,8 @@
 
 Simple and easy to use.
 
+link: https://homer-byte-doughnut.github.io/simple-eBay-profit-calculator/
+
 ![preview](https://imgur.com/whlpRE3.jpg)
 
 ##### 4 fields:
