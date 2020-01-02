@@ -1,2 +1,26 @@
-# simple-eBay-profit-calculator
-Simple and easy to use web based eBay profit calculator.
+# Simple eBay Profit Calculator
+
+Simple and easy to use.
+
+![preview](https://imgur.com/whlpRE3.jpg)
+
+##### 4 fields:
+- Sold Price
+- Shipping Charged
+- Shipping Cost
+- Item Cost
+
+### Tech
+
+Simple eBay Profit Calculator is built in 3 simple technologies
+
+* HTML
+* JavaScript
+* Bootstrap
+
+
+### Todos
+
+ - Add fee structure for shops (basic+)
+
+
